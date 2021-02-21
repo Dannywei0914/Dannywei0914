@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://github.com/Dannywei0914/Dannywei0914/blob/main/MARINE.gif" height="200">
 
 <!--
 **Dannywei0914/Dannywei0914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
